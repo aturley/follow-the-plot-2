@@ -14,3 +14,8 @@ I will work with radial lines drawn outward from a point. I will
 define areas of activity (by distance, angle etc) and only draw in
 those areas. I will combine drawings with slightly different points to
 create overlapping figures.
+
+## Plan 3
+
+I will experiment with intersecting lines. This will allow me to
+define ordered layers and create logic around intersections.
