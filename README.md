@@ -19,3 +19,8 @@ create overlapping figures.
 
 I will experiment with intersecting lines. This will allow me to
 define ordered layers and create logic around intersections.
+
+## Plan 4
+
+I will experiment with ranges that are divided by various random
+means.
