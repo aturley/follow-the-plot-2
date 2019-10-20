@@ -24,3 +24,7 @@ define ordered layers and create logic around intersections.
 
 I will experiment with ranges that are divided by various random
 means.
+
+## Plan 5
+
+I will experiment with distorting grids in different ways.
