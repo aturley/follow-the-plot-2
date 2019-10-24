@@ -28,3 +28,7 @@ means.
 ## Plan 5
 
 I will experiment with distorting grids in different ways.
+
+## Plan 6
+
+I will experiment with different line styles.
